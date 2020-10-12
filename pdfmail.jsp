@@ -35,8 +35,8 @@ String name=(String)session.getAttribute("name");
 System.out.print(name);
 System.out.print("..............");
 String email=(String)session.getAttribute("email");
-final String username = "vashishthabhishekcse2@gmail.com";
-final String password = "@Abhi1998";
+
+//email and password
 
 Properties prop = new Properties();
 prop.put("mail.smtp.host", "smtp.gmail.com");
