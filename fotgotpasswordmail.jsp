@@ -20,8 +20,7 @@ session.setAttribute("mail", email);
 System.out.println(email);
 
 
-final String username = "vashishthabhishekcse2@gmail.com";
-final String password = "@Abhi1998";
+
 
 Properties prop = new Properties();
 prop.put("mail.smtp.host", "smtp.gmail.com");
