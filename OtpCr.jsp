@@ -33,8 +33,8 @@ for(int i = 0; i< 4 ; i++) {
 }
 String email=(String)session.getAttribute("email");
 
-final String username = "vashishthabhishekcse2@gmail.com";
-final String password = "@Abhi1998";
+final String username = "mail id";
+final String password = "password";
 
 Properties prop = new Properties();
 prop.put("mail.smtp.host", "smtp.gmail.com");
